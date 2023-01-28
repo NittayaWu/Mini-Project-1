@@ -32,12 +32,21 @@ header nav {
     font-size: 20px;
 }
 
+#line {
+    white-space: nowrap;
+}
+.word {
+    display: inline-block;
+}
+
+
+
 header nav ul {
     list-style-type: none;
 }
 
 header nav ul li  {
-    display:inline-block
+    display:inline
     margin-left: 25px;
 }
 
